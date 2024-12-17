@@ -12,9 +12,8 @@ const Home = () => {
                     I'm a Full Stack Developer 
                 </h2>
                 <p className="text-gray-500 py-4 max-w-md">
-                    I specialize in building and designing exceptional digital experiences.currently enrolled in 
-                    sait for software development. 
-                    i love making apps and vwrhifbwefgwefgsfyugsdiufysgdjhsdbsgdfuysgfydsfjkdfdkhfkdehfkusdfhksd
+                Transforming ideas into reality through code ✨.  
+                I’m passionate about crafting intuitive, responsive, and dynamic web applications. As a Full Stack Developer with expertise in both frontend and backend technologies, I focus on delivering seamless digital experiences.
                 </p>
 
                 <div>
