@@ -44,7 +44,7 @@ const SocialLinks = () => {
         </>
       ),
       href:'/resume.pdf',
-      style:'rounded-tr-md',
+      style:'rounded-tr-',
       download:true
     },
   ];
